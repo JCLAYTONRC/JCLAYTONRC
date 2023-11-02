@@ -1,3 +1,4 @@
+![](https://github.com/JCLAYTONRC/JCLAYTONRC/blob/main/clayton-logo-blue.png?raw=true)
 # 💫 About Me:
 🔭I’m currently learning Cross-platform Mobile<br>👯 I’m looking to collaborate on Google<br>😄 Pronouns: Clayton, JC.<br>⚡ Fun fact: I like tacos.
 
